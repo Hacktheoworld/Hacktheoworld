@@ -23,6 +23,16 @@
 </p>
 
 
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hacktheoworld&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hacktheoworld&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hacktheoworld&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hacktheoworld&show_icons=true&locale=en&layout=compact" alt="Hacktheoworld" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hacktheoworld&show_icons=true&locale=en" alt="Hacktheoworld" /></p>
