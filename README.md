@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width=400px src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=student-shubh&label=Profile%20views&color=0e75b6&style=flat" alt="student-shubh" /> </p>
 
 🌱 I’m currently learning **Web Development**
 
