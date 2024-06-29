@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&pause=800&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Priyansh+Verma)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">💡 Actively learning UI/UX Design <br>
+✨ Making everyday moments unforgettable
+Skills:</h3>
 
  <img  withd="400" align="right" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="Alt Text" autoplay loop>
 
 🌱 I’m currently learning **Web Development**
 
-📫 How to reach me : **Shubh.123387@stu.upes.ac.in**
+How to reach me : **Priyansh.122682@stu.upes.ac.in**
 
 
 
@@ -31,22 +33,22 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hacktheoworld&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hacktheoworld&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hacktheoworld&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=ffffff" alt="Hacktheoworld" /></p>
 
 
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhasjaiswal&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=ffffff" alt="abhasjaiswal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhasjaiswal&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff" alt="abhasjaiswal" /></p>
-
-
-
-
-<h3 align="left">Support:</h3>
+<!--SUPPORT-->
+<br><h3 align="left">Support:</h3>
+<br><br>
 <p><a href="https://www.buymeacoffee.com/aadishbansal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aadishbansal" /></a></p><br><br>
 
 
 [![](https://visitcount.itsvg.in/api?id=Hacktheoworld&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+
+
+
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+<br>
+ <img src="https://raw.githubusercontent.com/Hacktheoworld/Hacktheoworld/4c6b2c4483bda54f22f5231f2fad2b37493c5359/github-contribution-grid-snake.svg" width="1000" height="200"/>
