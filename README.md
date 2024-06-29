@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Priyansh Verma</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-
+ <img  withd="400" align="right" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="Alt Text" autoplay loop>
 
 🌱 I’m currently learning **Web Development**
 
