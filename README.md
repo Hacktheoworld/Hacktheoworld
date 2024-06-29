@@ -33,4 +33,10 @@
 https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode
 
 
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/aadishbansal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aadishbansal" /></a></p><br><br>
+
+
 [![](https://visitcount.itsvg.in/api?id=Hacktheoworld&icon=0&color=1)](https://visitcount.itsvg.in)
