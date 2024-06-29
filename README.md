@@ -7,6 +7,8 @@
 
 📫 How to reach me : **Shubh.123387@stu.upes.ac.in**
 
+
+
 📄 Know about my experiences:-
   - Participated in Global Game Jam 2024
   - Developed **Jetha's Jam** within 48 Hrs with my teammates.
@@ -21,7 +23,7 @@
 <a href="https://www.instagram.com/about_priyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="about_priyansh" height="30" width="40" /></a>
 </p>
 
-
+<p align = 'center'> <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p> 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hacktheoworld&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
