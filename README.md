@@ -53,9 +53,9 @@
 
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacktheoworld&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacktheoworld&theme=dark&hide_border=false" alt="GitHub Streak" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacktheoworld&theme=dark&hide_border=false&layout=compact" alt="Top Languages" align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hacktheoworld&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacktheoworld&theme=dark&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacktheoworld&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
 </p>
 <!-- SUPPORT -->
 <h3 align="left">Support:</h3>
