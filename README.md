@@ -1,4 +1,5 @@
-<h1 align="center">Hi , I'm Priyansh Verma</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&pause=800&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Priyansh+Verma)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate learner from India</h3>
 
  <img  withd="400" align="right" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="Alt Text" autoplay loop>
