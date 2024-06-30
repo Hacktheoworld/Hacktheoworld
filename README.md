@@ -8,7 +8,7 @@
 
 
 
-💡 Actively learning UI/UX Design <br>
+💡 Actively learning Web Development <br>
 ✨ Making everyday moments unforgettable Skills
 
 📄 Know about my experiences:
