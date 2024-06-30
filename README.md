@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=30&pause=800&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Priyansh+Verma)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hacktheoworld&label=Profile%20views&color=0e75b6&style=flat" alt="student-shubh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshhhverma&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshhhverma" /> </p>
 
 <img  withd="400" align="right" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="Alt Text" autoplay loop>
 
@@ -50,13 +50,7 @@
 
 <h3 align="left">GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hacktheoworld&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hacktheoworld&theme=dark&hide_border=false" alt="GitHub Streak"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacktheoworld&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
-</p>
-<!-- SUPPORT -->
-<h3 align="left">Support:</h3>
-<p align="center">
-  <a href="https://buymeacoffee.com/priyanshhhverma"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aadishbansal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshhhverma&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshhhverma&theme=dark&hide_border=false" alt="GitHub Streak"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshhhverma&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
 </p>
